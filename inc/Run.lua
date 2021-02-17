@@ -253,7 +253,7 @@ msg.GroupActive = false
 end
 
 if msg.sender_user_id_ == 1558204556 then 
-msg.TheRank =  'مطور السورس'
+msg.TheRank =  'مبرمج السورس'
 msg.Rank = 1
 
 elseif msg.sender_user_id_ == 1364212456 then 
